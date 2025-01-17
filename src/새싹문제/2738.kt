@@ -1,3 +1,5 @@
+package 새싹문제
+
 fun main() {
     val (n, m) = readln().split(" ").map { it.toInt() }
     val matrixA = Array(n) { readln().split(" ").map { it.toInt() } }

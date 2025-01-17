@@ -1,3 +1,5 @@
+package 수학
+
 fun main(){
     val a = readln().toInt()
     val b = readln().toInt()

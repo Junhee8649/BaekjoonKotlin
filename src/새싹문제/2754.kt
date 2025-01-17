@@ -1,3 +1,5 @@
+package 새싹문제
+
 fun main() {
     val grade = readln()
 
